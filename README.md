@@ -1,28 +1,30 @@
-# Unity2019114f1-2D-Template
+# inclass-simpleSubNumbers-cs-lwildmann
 
 ### Project description: 
 Introduction/Project summary 
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Windows 10.0.18362\
+Unity 2019.1.14f1\
+Visual Studio Code 1.40.2
 
 ### Target platform: 
 WebGL, Mobile, VR Device incl. reference resolution 
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+Screenshots (concept and experience), Video 
 
 ### Necessary setup/execution steps: 
 Installation process, e.g. step by step instructions that I can run the project after cloning it
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
 
 ### Project state: 
-incl. progress in percent
 
 ### Limitations: 
 
 ### Lessons Learned: 
+How to create a GUI in Unity.
 
-Copyright by you :)
+
+Copyright by lwildmann
